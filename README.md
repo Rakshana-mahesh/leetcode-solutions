@@ -22,3 +22,7 @@ Solutions to LeetCode problems, organized by topic.
 
 | 242 | Valid Anagram | Easy | Counter/Hashmap | \[Link](hashmap/valid\_anagram.py) |
 
+| 217 | Contains Duplicate | Easy | Set/Hashmap | \[Link](hashmap/contains\_duplicate.py) |
+
+| 219 | Contains Duplicate II | Easy | Hashmap (value → index) | \[Link](hashmap/contains\_duplicate\_ii.py) |
+
