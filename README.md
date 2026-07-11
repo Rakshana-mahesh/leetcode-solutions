@@ -26,3 +26,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 219 | Contains Duplicate II | Easy | Hashmap (value → index) | \[Link](hashmap/contains\_duplicate\_ii.py) |
 
+| 49 | Group Anagrams | Medium | Hashmap (sorted string key) | \[Link](hashmap/group\_anagrams.py) |
+
