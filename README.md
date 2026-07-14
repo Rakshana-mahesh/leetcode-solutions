@@ -28,3 +28,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 49 | Group Anagrams | Medium | Hashmap (sorted string key) | \[Link](hashmap/group\_anagrams.py) |
 
+| 268 | Missing Number | Easy | Sum formula | \[Link](arrays/missing\_number.py) |
+
