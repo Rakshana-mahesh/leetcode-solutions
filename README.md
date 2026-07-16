@@ -30,3 +30,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 268 | Missing Number | Easy | Sum formula | \[Link](arrays/missing\_number.py) |
 
+| 283 | Move Zeroes | Easy | Two pointers | \[Link](two-pointers/move\_zeroes.py) |
+
