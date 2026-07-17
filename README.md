@@ -32,3 +32,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 283 | Move Zeroes | Easy | Two pointers | \[Link](two-pointers/move\_zeroes.py) |
 
+| 125 | Valid Palindrome | Easy | Two pointers | \[Link](two-pointers/valid\_palindrome.py) |
+
