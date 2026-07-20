@@ -34,3 +34,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 125 | Valid Palindrome | Easy | Two pointers | \[Link](two-pointers/valid\_palindrome.py) |
 
+| 136 | Single Number | Easy | XOR bitwise trick | \[Link](bit-manipulation/single\_number.py) |
+
