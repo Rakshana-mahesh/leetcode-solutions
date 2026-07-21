@@ -36,3 +36,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 136 | Single Number | Easy | XOR bitwise trick | \[Link](bit-manipulation/single\_number.py) |
 
+| 169 | Majority Element | Easy | Boyer-Moore Voting | \[Link](arrays/majority\_element.py) |
+
