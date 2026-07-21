@@ -38,3 +38,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 169 | Majority Element | Easy | Boyer-Moore Voting | \[Link](arrays/majority\_element.py) |
 
+| 229 | Majority Element II | Medium | Counter/Hashmap | \[Link](arrays/majority\_element\_ii.py) |
+
