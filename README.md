@@ -40,3 +40,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 229 | Majority Element II | Medium | Counter/Hashmap | \[Link](arrays/majority\_element\_ii.py) |
 
+| 70 | Climbing Stairs | Easy | Dynamic Programming (Fibonacci pattern) | \[Link](dynamic-programming/climbing\_stairs.py) |
+
