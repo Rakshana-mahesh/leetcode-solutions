@@ -42,3 +42,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 70 | Climbing Stairs | Easy | Dynamic Programming (Fibonacci pattern) | \[Link](dynamic-programming/climbing\_stairs.py) |
 
+| 198 | House Robber | Easy/Medium | Dynamic Programming | \[Link](dynamic-programming/house\_robber.py) |
+
