@@ -44,3 +44,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 198 | House Robber | Easy/Medium | Dynamic Programming | \[Link](dynamic-programming/house\_robber.py) |
 
+| 13 | Roman to Integer | Easy | Hashmap lookup | \[Link](math/roman\_to\_integer.py) |
+
