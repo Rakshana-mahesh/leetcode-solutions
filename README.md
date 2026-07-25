@@ -46,3 +46,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 13 | Roman to Integer | Easy | Hashmap lookup | \[Link](math/roman\_to\_integer.py) |
 
+| 66 | Plus One | Easy | Carry propagation | \[Link](arrays/plus\_one.py) |
+
