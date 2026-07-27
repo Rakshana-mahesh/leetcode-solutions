@@ -48,3 +48,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 66 | Plus One | Easy | Carry propagation | \[Link](arrays/plus\_one.py) |
 
+| 88 | Merge Sorted Array | Easy | Two pointers (back to front) | \[Link](two-pointers/merge\_sorted\_array.py) |
+
