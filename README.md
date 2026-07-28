@@ -50,3 +50,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 88 | Merge Sorted Array | Easy | Two pointers (back to front) | \[Link](two-pointers/merge\_sorted\_array.py) |
 
+| 206 | Reverse Linked List | Easy | Pointer manipulation | \[Link](linked-list/reverse\_linked\_list.py) |
+
