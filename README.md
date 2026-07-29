@@ -52,3 +52,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 206 | Reverse Linked List | Easy | Pointer manipulation | \[Link](linked-list/reverse\_linked\_list.py) |
 
+| 21 | Merge Two Sorted Lists | Easy | Dummy node + two pointers | \[Link](linked-list/merge\_two\_sorted\_lists.py) |
+
