@@ -54,3 +54,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 21 | Merge Two Sorted Lists | Easy | Dummy node + two pointers | \[Link](linked-list/merge\_two\_sorted\_lists.py) |
 
+| 704 | Binary Search | Easy | Binary search (divide and conquer) | \[Link](binary-search/binary\_search.py) |
+
