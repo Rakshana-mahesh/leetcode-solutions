@@ -56,3 +56,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 704 | Binary Search | Easy | Binary search (divide and conquer) | \[Link](binary-search/binary\_search.py) |
 
+| 278 | First Bad Version | Easy | Binary search (boundary search) | \[Link](binary-search/first\_bad\_version.py) |
+
