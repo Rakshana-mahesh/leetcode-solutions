@@ -60,3 +60,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 141 | Linked List Cycle | Easy | Fast \& slow pointers | \[Link](linked-list/linked\_list\_cycle.py) |
 
+| 104 | Maximum Depth of Binary Tree | Easy | Recursion (DFS) | \[Link](tree/maximum\_depth\_binary\_tree.py) |
+
