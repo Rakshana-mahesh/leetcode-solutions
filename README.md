@@ -62,3 +62,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 104 | Maximum Depth of Binary Tree | Easy | Recursion (DFS) | \[Link](tree/maximum\_depth\_binary\_tree.py) |
 
+| 226 | Invert Binary Tree | Easy | Recursion (DFS) | \[Link](tree/invert\_binary\_tree.py) |
+
