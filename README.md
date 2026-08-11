@@ -64,3 +64,7 @@ Solutions to LeetCode problems, organized by topic.
 
 | 226 | Invert Binary Tree | Easy | Recursion (DFS) | \[Link](tree/invert\_binary\_tree.py) |
 
+| 100 | Same Tree | Easy | Recursion (DFS) | \[Link](tree/same\_tree.py) |
+
+| 101 | Symmetric Tree | Easy | Recursion (DFS, mirror comparison) | \[Link](tree/symmetric\_tree.py) |
+
