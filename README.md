@@ -68,3 +68,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 101 | Symmetric Tree | Easy | Recursion (DFS, mirror comparison) | \[Link](tree/symmetric\_tree.py) |
 
+| 112 | Path Sum | Easy | Recursion (DFS, running total) | \[Link](tree/path\_sum.py) |
+
