@@ -70,3 +70,7 @@ Solutions to LeetCode problems, organized by topic.
 
 | 112 | Path Sum | Easy | Recursion (DFS, running total) | \[Link](tree/path\_sum.py) |
 
+| 110 | Balanced Binary Tree | Easy | Recursion (DFS, bottom-up height check) | \[Link](tree/balanced\_binary\_tree.py) |
+
+| 543 | Diameter of Binary Tree | Easy | Recursion (DFS, height + running max) | \[Link](tree/diameter\_of\_binary\_tree.py) |
+
