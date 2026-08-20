@@ -74,3 +74,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 543 | Diameter of Binary Tree | Easy | Recursion (DFS, height + running max) | \[Link](tree/diameter\_of\_binary\_tree.py) |
 
+| 102 | Binary Tree Level Order Traversal | Medium | BFS with queue | \[Link](tree/binary\_tree\_level\_order\_traversal.py) |
+
