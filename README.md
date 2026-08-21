@@ -76,3 +76,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 102 | Binary Tree Level Order Traversal | Medium | BFS with queue | \[Link](tree/binary\_tree\_level\_order\_traversal.py) |
 
+| 98 | Validate Binary Search Tree | Medium | Recursion (min/max range check) | \[Link](tree/validate\_binary\_search\_tree.py) |
+
