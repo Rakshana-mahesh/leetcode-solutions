@@ -78,3 +78,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 98 | Validate Binary Search Tree | Medium | Recursion (min/max range check) | \[Link](tree/validate\_binary\_search\_tree.py) |
 
+| 235 | Lowest Common Ancestor of a BST | Medium | BST property (iterative) | \[Link](tree/lowest\_common\_ancestor\_bst.py) |
+
