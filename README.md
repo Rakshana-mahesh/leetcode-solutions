@@ -80,3 +80,7 @@ Solutions to LeetCode problems, organized by topic.
 
 | 235 | Lowest Common Ancestor of a BST | Medium | BST property (iterative) | \[Link](tree/lowest\_common\_ancestor\_bst.py) |
 
+| 876 | Middle of the Linked List | Easy | Fast \& slow pointers | \[Link](linked-list/middle\_of\_linked\_list.py) |
+
+| 189 | Rotate Array | Medium | Three reversals (in-place) | \[Link](arrays/rotate\_array.py) |
+
