@@ -84,3 +84,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 189 | Rotate Array | Medium | Three reversals (in-place) | \[Link](arrays/rotate\_array.py) |
 
+| 238 | Product of Array Except Self | Medium | Prefix/suffix products | \[Link](arrays/product\_of\_array\_except\_self.py) |
+
