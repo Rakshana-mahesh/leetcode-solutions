@@ -86,3 +86,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 238 | Product of Array Except Self | Medium | Prefix/suffix products | \[Link](arrays/product\_of\_array\_except\_self.py) |
 
+| 15 | 3Sum | Medium | Sorting + two pointers | \[Link](two-pointers/three\_sum.py) |
+
