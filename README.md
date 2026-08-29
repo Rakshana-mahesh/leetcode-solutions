@@ -88,3 +88,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 15 | 3Sum | Medium | Sorting + two pointers | \[Link](two-pointers/three\_sum.py) |
 
+| 977 | Squares of a Sorted Array | Easy | Two pointers | \[Link](two-pointers/squares\_of\_sorted\_array.py) |
+
