@@ -90,3 +90,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 977 | Squares of a Sorted Array | Easy | Two pointers | \[Link](two-pointers/squares\_of\_sorted\_array.py) |
 
+| 383 | Ransom Note | Easy | Counter/Hashmap | \[Link](hashmap/ransom\_note.py) |
+
