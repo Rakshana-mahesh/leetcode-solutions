@@ -92,3 +92,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 383 | Ransom Note | Easy | Counter/Hashmap | \[Link](hashmap/ransom\_note.py) |
 
+| 448 | Find All Numbers Disappeared in an Array | Easy | In-place marking (sign flip) | \[Link](arrays/find\_disappeared\_numbers.py) |
+
