@@ -94,3 +94,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 448 | Find All Numbers Disappeared in an Array | Easy | In-place marking (sign flip) | \[Link](arrays/find\_disappeared\_numbers.py) |
 
+| 724 | Find Pivot Index | Easy | Prefix sum | \[Link](prefix-sum/find\_pivot\_index.py) |
+
