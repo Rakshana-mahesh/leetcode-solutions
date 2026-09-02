@@ -96,3 +96,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 724 | Find Pivot Index | Easy | Prefix sum | \[Link](prefix-sum/find\_pivot\_index.py) |
 
+| 1480 | Running Sum of 1d Array | Easy | Prefix sum | \[Link](prefix-sum/running\_sum.py) |
+
