@@ -98,3 +98,7 @@ Solutions to LeetCode problems, organized by topic.
 
 | 1480 | Running Sum of 1d Array | Easy | Prefix sum | \[Link](prefix-sum/running\_sum.py) |
 
+| 303 | Range Sum Query - Immutable | Easy | Prefix sum (class-based) | \[Link](prefix-sum/range\_sum\_query\_immutable.py) |
+
+
+
