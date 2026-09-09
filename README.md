@@ -100,5 +100,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 303 | Range Sum Query - Immutable | Easy | Prefix sum (class-based) | \[Link](prefix-sum/range\_sum\_query\_immutable.py) |
 
-
+| 1732 | Find the Highest Altitude | Easy | Prefix sum (running max) | \[Link](prefix-sum/find\_highest\_altitude.py) |
 
