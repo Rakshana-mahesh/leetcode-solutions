@@ -102,3 +102,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 1732 | Find the Highest Altitude | Easy | Prefix sum (running max) | \[Link](prefix-sum/find\_highest\_altitude.py) |
 
+| 1431 | Kids With the Greatest Number of Candies | Easy | Max comparison | \[Link](arrays/kids\_with\_greatest\_candies.py) |
+
