@@ -104,3 +104,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 1431 | Kids With the Greatest Number of Candies | Easy | Max comparison | \[Link](arrays/kids\_with\_greatest\_candies.py) |
 
+| 605 | Can Place Flowers | Easy | Greedy | \[Link](arrays/can\_place\_flowers.py) |
+
