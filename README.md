@@ -106,3 +106,5 @@ Solutions to LeetCode problems, organized by topic.
 
 | 605 | Can Place Flowers | Easy | Greedy | \[Link](arrays/can\_place\_flowers.py) |
 
+| 1768 | Merge Strings Alternately | Easy | Two pointers | \[Link](two-pointers/merge\_strings\_alternately.py) |
+
